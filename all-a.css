@@ -1,0 +1,96 @@
+.mdui-theme-accent-pink .mdui-typo a {
+    color: #ff4081;
+}
+.mdui-typo a {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    color: #ff4081;
+    text-decoration: none;
+    vertical-align: top;
+    outline: 0;
+}
+a {
+    background-color: transparent;
+}
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+user agent stylesheet
+a:-webkit-any-link:active {
+    color: -webkit-activelink;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.doc-intro-module {
+    font-size: 14px;
+    margin-top: 40px;
+}
+.doc-intro {
+    font-size: 16px;
+    margin-bottom: 0;
+    padding: 0 0 48px 0;
+}
+.mdui-typo {
+    line-height: 1.8;
+    word-wrap: break-word;
+}
+@media (min-width: 1024px)
+body {
+    font-size: 15px;
+}
+@media (min-width: 600px)
+body {
+    font-size: 14.5px;
+}
+body {
+    font-family: Roboto,Noto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: rgba(0,0,0,.87);
+    background-color: #fff;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+.mdui-theme-accent-pink .mdui-typo a:before {
+    background-color: #ff4081;
+}
+.mdui-typo a:focus:before, .mdui-typo a:hover:before {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+.mdui-typo a:before {
+    position: absolute;
+    top: auto;
+    bottom: 1px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    content: ' ';
+    background-color: #ff4081;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+@media (min-width: 1024px)
+body ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+body ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background: 0 0;
+}

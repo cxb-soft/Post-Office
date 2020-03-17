@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12dbaa3e-f5f7-45b1-99a7-89970bb6b346" name="Default" comment="build v0.4.2">
+      <change beforePath="$PROJECT_DIR$/dist/css/mdui.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/mdui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/mdui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/mdui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/mdui.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/mdui.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/mdui.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/mdui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/mdui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/mdui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/mdui.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/mdui.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queue</find>
+      <find>mdui-dialog</find>
+      <find>close(true</find>
+      <find>mdui-dialog-close</find>
+      <find>append</find>
+      <find>createElement</find>
+      <find>onClick</find>
+      <find>onCancel</find>
+      <find>popstate</find>
+      <find>history</find>
+      <find>hashchangeEvent</find>
+      <find>checkboxHTML</find>
+      <find>map</find>
+      <find>text: options.cancelText,</find>
+      <find>&lt;input class=&quot;mdui-textfield-input&quot;</find>
+      <find>$anchor</find>
+      <find>scrolling</find>
+      <find>112</find>
+      <find>readjustMenu</find>
+      <find>menuHeight</find>
+      <find>size</find>
+      <find>modules</find>
+      <find>core_intro</find>
+      <find>Buffer</find>
+      <find>eval</find>
+      <find>less</find>
+      <find>build</find>
+      <find>custom</find>
+      <find>svg</find>
+      <find>prompt</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\workspace\www\mdui\source</dir>
+      <dir>C:\workspace\www\mdui\source\test</dir>
+      <dir>C:\workspace\www\mdui\source\src\jq\js</dir>
+      <dir>C:\workspace\www\mdui\source\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/global/less/base.less" />
+        <option value="$PROJECT_DIR$/src/tab/less/tab.less" />
+        <option value="$PROJECT_DIR$/src/snackbar/js/snackbar.js" />
+        <option value="$PROJECT_DIR$/src/jq/js/ajax.js" />
+        <option value="$PROJECT_DIR$/src/textfield/js/textfield.js" />
+        <option value="$PROJECT_DIR$/src/tooltip/js/tooltip.js" />
+        <option value="$PROJECT_DIR$/src/global/js/jq_extend.js" />
+        <option value="$PROJECT_DIR$/src/tab/js/tab.js" />
+        <option value="$PROJECT_DIR$/src/button/less/button.less" />
+        <option value="$PROJECT_DIR$/.jshintignore" />
+        <option value="$PROJECT_DIR$/src/global/js/global.js" />
+        <option value="$PROJECT_DIR$/src/dialog/js/dialog.alert.js" />
+        <option value="$PROJECT_DIR$/src/jq/jq.js" />
+        <option value="$PROJECT_DIR$/src/global/js/wrap_end.js" />
+        <option value="$PROJECT_DIR$/modules.json" />
+        <option value="$PROJECT_DIR$/src/typo/less/typo.less" />
+        <option value="$PROJECT_DIR$/src/fab/less/fab.less" />
+        <option value="$PROJECT_DIR$/src/selection_control/less/checkbox.less" />
+        <option value="$PROJECT_DIR$/src/selection_control/less/radio.less" />
+        <option value="$PROJECT_DIR$/src/selection_control/less/switch.less" />
+        <option value="$PROJECT_DIR$/src/dialog/js/dialog.dialog.js" />
+        <option value="$PROJECT_DIR$/src/dialog/js/dialog.js" />
+        <option value="$PROJECT_DIR$/src/jq/js/jq.js" />
+        <option value="$PROJECT_DIR$/src/dialog/js/dialog.prompt.js" />
+        <option value="$PROJECT_DIR$/dist/js/mdui.min.js" />
+        <option value="$PROJECT_DIR$/src/select/js/select.js" />
+        <option value="$PROJECT_DIR$/src/progress/js/spinner.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/variable/less/color/blue.less" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dist/js/mdui.js" />
+        <option value="$PROJECT_DIR$/a.js" />
+        <option value="$PROJECT_DIR$/mdui.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3832" />
+    <option name="y" value="567" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="selection_control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="selection_control" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="editorconfig.notification" value="null# tab | space" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Users\zdhxi\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\182.4892.16\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\www\mdui\source\src\jq\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12dbaa3e-f5f7-45b1-99a7-89970bb6b346" name="Default" comment="" />
+      <created>1511520725311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511520725311</updated>
+      <workItem from="1511520727695" duration="630000" />
+      <workItem from="1511750467727" duration="1476000" />
+      <workItem from="1511831416297" duration="2540000" />
+      <workItem from="1511919126473" duration="5985000" />
+      <workItem from="1512004823760" duration="2292000" />
+      <workItem from="1512090857235" duration="719000" />
+      <workItem from="1512104347324" duration="12000" />
+      <workItem from="1512109506894" duration="13023000" />
+      <workItem from="1512350777706" duration="80000" />
+      <workItem from="1512350890105" duration="136000" />
+      <workItem from="1512351993646" duration="20778000" />
+      <workItem from="1512442763859" duration="1814000" />
+      <workItem from="1512460207899" duration="610000" />
+      <workItem from="1512527642271" duration="21000" />
+      <workItem from="1512614819940" duration="2000000" />
+      <workItem from="1512703334816" duration="2689000" />
+      <workItem from="1512955031575" duration="25000" />
+      <workItem from="1512955117495" duration="683000" />
+      <workItem from="1512971600175" duration="6449000" />
+      <workItem from="1513559989019" duration="34000" />
+      <workItem from="1513586307555" duration="2312000" />
+      <workItem from="1513646620934" duration="151000" />
+      <workItem from="1513655988497" duration="1001000" />
+      <workItem from="1513740020653" duration="643000" />
+      <workItem from="1513831478162" duration="7791000" />
+      <workItem from="1520391308085" duration="232000" />
+      <workItem from="1524886459924" duration="27000" />
+      <workItem from="1524908309486" duration="728000" />
+      <workItem from="1530861627070" duration="197000" />
+      <workItem from="1531288076343" duration="1483000" />
+      <workItem from="1531300327885" duration="2977000" />
+      <workItem from="1531447075980" duration="36000" />
+      <workItem from="1531899432415" duration="7659000" />
+      <workItem from="1531985753802" duration="7025000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tab.handleUpdate 方法使新增的 Tab 项能生效">
+      <created>1512116418689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512116418689</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tab 项为空时报错问题">
+      <created>1512385272617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512385272617</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tab 事件参数错误">
+      <created>1512385313199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512385313199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Select 选中后触发 change 事件">
+      <created>1512386200287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1512386200287</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Snackbar: timeout 为 0 时永不自动关闭">
+      <created>1512615410730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512615410730</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ajax: contentType 为 false 时，不设置 Content-Type。及修复一处变量名错误。&#10;fixed #115">
+      <created>1512980705997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512980705997</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除调试信息">
+      <created>1513680705980</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513680705980</updated>
+    </task>
+    <task id="LOCAL-00008" summary="删除调试信息">
+      <created>1513680769589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513680769589</updated>
+    </task>
+    <task id="LOCAL-00009" summary="删除调试信息">
+      <created>1513680820283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513680820283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="$.guid 方法支持传入参数，指定 guid 的名称">
+      <created>1513834795464</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1513834795464</updated>
+    </task>
+    <task id="LOCAL-00011" summary="按钮样式优化">
+      <created>1513855625785</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1513855625785</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JQ 放到独立仓库中">
+      <created>1531991557479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531991557479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94258000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3832" y="567" width="1936" height="1035" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16367476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Gulp" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="GfmBrowser" order="5" />
+      <window_info id="Database" order="6" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.46492434" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.740458" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32944915" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329891" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329891" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16367476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Gulp" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="GfmBrowser" order="5" />
+      <window_info id="Database" order="6" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.46492434" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.740458" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32944915" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329891" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329891" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Tab.handleUpdate 方法使新增的 Tab 项能生效" />
+    <MESSAGE value="Tab 项为空时报错问题" />
+    <MESSAGE value="Tab 事件参数错误" />
+    <MESSAGE value="Select 选中后触发 change 事件" />
+    <MESSAGE value="Snackbar: timeout 为 0 时永不自动关闭" />
+    <MESSAGE value="ajax: contentType 为 false 时，不设置 Content-Type。及修复一处变量名错误。&#10;fixed #115" />
+    <MESSAGE value="删除调试信息" />
+    <MESSAGE value="$.guid 方法支持传入参数，指定 guid 的名称" />
+    <MESSAGE value="按钮样式优化" />
+    <MESSAGE value="JQ 放到独立仓库中" />
+    <MESSAGE value="fixed #164" />
+    <MESSAGE value="fixed #160" />
+    <MESSAGE value="fixed #179" />
+    <MESSAGE value="fixed #84" />
+    <MESSAGE value="build v0.4.2" />
+    <MESSAGE value="update mdui.JQ" />
+    <MESSAGE value="mdui.promit 的回调函数允许传入非函数值" />
+    <MESSAGE value="select 只有一个选项时，高度错误" />
+    <MESSAGE value="fixed #185" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed #185" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fab/js/fab.data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fab/less/fab.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/selection_control/less/radio.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="162" column="5" lean-forward="true" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/selection_control/less/switch.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="180" column="11" lean-forward="true" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/mdui.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="690" column="19" selection-start-line="690" selection-start-column="19" selection-end-line="690" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/less/menu.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global/less/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mdui.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grid/less/grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="135" column="30" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fab/js/fab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8566" column="4" selection-start-line="8566" selection-start-column="4" selection-end-line="8566" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/table/js/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="74" column="21" lean-forward="true" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.confirm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jq/js/jq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="350" column="20" lean-forward="true" selection-start-line="350" selection-start-column="20" selection-end-line="350" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/mdui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="5" column="59897" selection-start-line="5" selection-start-column="59897" selection-end-line="5" selection-end-column="59897" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/select/js/select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="222" column="5" selection-start-line="222" selection-start-column="5" selection-end-line="222" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/appbar/less/appbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/variable/less/global.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/toolbar/less/toolbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="89" column="41" lean-forward="true" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawer/less/drawer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/panel/js/panel.data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/panel/js/panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progress/js/spinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7500">
+          <caret line="375" column="11" selection-start-line="375" selection-start-column="11" selection-end-line="375" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/color/less/color.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/variable/less/color/blue.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/css/mdui.custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1923" column="55" selection-start-line="1923" selection-start-column="52" selection-end-line="1923" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/mdui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="3306" column="299" selection-start-line="3306" selection-start-column="296" selection-end-line="3306" selection-end-column="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/less/dialog.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="364" column="15" selection-start-line="364" selection-start-column="15" selection-end-line="364" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="493" column="21" lean-forward="true" selection-start-line="493" selection-start-column="21" selection-end-line="493" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/js/menu.data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/appbar/js/appbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/variable/less/color/deep-purple.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dialog/js/dialog.prompt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2597">
+          <caret line="357" lean-forward="true" selection-start-line="357" selection-end-line="357" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/mdui.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/mdui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="6036" column="12" lean-forward="true" selection-start-line="6036" selection-start-column="12" selection-end-line="6036" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="1585" column="10" selection-start-line="1585" selection-start-column="10" selection-end-line="1585" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/selection_control/less/checkbox.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
